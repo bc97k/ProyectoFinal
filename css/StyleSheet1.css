@@ -1,0 +1,32 @@
+﻿body {
+    --color-bg: rgb(53,53,53);
+    --color-text: lightgoldenrodyellow;
+    background-color: var(--color-bg);
+    /*color: white;*/
+    background-image: url('../assets/cuaderno-blanco-plano.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: left;
+    margin: 125px 150px 275px 250px;
+    font-family: Arial;
+}
+
+h1 {
+    text-align:center
+    color: lightyellow
+    font-family: Arial;
+}
+
+
+p {
+    color: yellow;
+    font-family: Arial;
+}
+
+div {
+    background-image: url('../assets/411452-PDCUAH-511-a.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
